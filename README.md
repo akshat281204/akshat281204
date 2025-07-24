@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Agarwal</h1>
-<h3 align="center">3rd Year CSE(DS) Undergraduate at BMSCE</h3>
+<h3 align="center">Final Year Undergraduate Pursuing CSE(DS) at BMSCE</h3>
 
-- 🌱 I’m currently learning **Kotlin, R Language**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **akshatagarwal.cd22@bmsce.ac.in**
 
