@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Akshat Agarwal</h1>
-<h3 align="center">SDE Intern at Hyperface • CSE(Data Science) Undergraduate • Backend & Systems Enthusiast</h3>
+<h3 align="center">SDE 1 at Hyperface • CSE(Data Science) Undergraduate • Backend & Systems Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/akshat281204">
