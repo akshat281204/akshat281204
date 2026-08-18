@@ -35,7 +35,7 @@ I am a software engineer focused on building reliable backend systems, developer
 
 ## Connect
 
-- [LinkedIn](www.linkedin.com/in/akshat-agarwal-92a50524b)
+- [LinkedIn](https://www.linkedin.com/in/akshat-agarwal-92a50524b)
 - [LeetCode](https://leetcode.com/akshat_281204)
 - [GitHub](https://github.com/akshat281204)
 
