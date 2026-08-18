@@ -1,97 +1,44 @@
-<h1 align="center">Hey 👋, I'm Akshat Agarwal</h1>
-<h3 align="center">SDE 1 at Hyperface • CSE(Data Science) Undergraduate • Backend & Systems Enthusiast</h3>
+# Akshat Agarwal
 
-<p align="center">
-  <a href="https://github.com/akshat281204">
-    <img src="https://komarev.com/ghpvc/?username=akshat281204&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
+**SDE 1 at Hyperface · Computer Science and Engineering (Data Science) Undergraduate**
 
----
+I am a software engineer focused on building reliable backend systems, developer tools, and scalable APIs.
 
-## 🚀 About Me
+## About
 
-- 💻 Currently building scalable backend systems & developer tools
-- 🌱 Currently learning **Golang**
-- ⚡ Interested in **Backend Engineering, Distributed Systems, DevOps & AI**
-- 🛠 Love working with APIs, databases, automation, and system design
-- 📫 Reach me at **akshat28122004@gmail.com**
+- Currently working on backend systems and developer tools at Hyperface
+- Learning Go and strengthening my understanding of distributed systems
+- Interested in backend engineering, system design, DevOps, observability, and AI
+- Enjoy working with APIs, databases, automation, and infrastructure
 
----
+## Technical Skills
 
-## 🌐 Connect With Me
+**Languages:** Java, Python, JavaScript, C, Go, Kotlin
 
-<p align="left">
-<a href="https://linkedin.com/in/akshat-agarwal" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-  
-<a href="https://leetcode.com/akshat_281204" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-</a>
-</p>
+**Backend:** Spring Boot, Node.js, Express.js, Flask
 
----
+**Databases:** MySQL, PostgreSQL, MongoDB, Redis, SQLite
 
-## 🧠 Tech Stack
+**DevOps and Tools:** Docker, Jenkins, Git, Grafana
 
-### Languages
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,js,c,go,kotlin" />
-</p>
+**Frontend and Mobile:** React, Tailwind CSS, HTML, CSS, Android
 
-### Backend & Frameworks
-<p align="left">
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask,firebase" />
-</p>
+**Data and Machine Learning:** TensorFlow, Pandas, Scikit-learn
 
-### Databases
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
-</p>
+## Currently Exploring
 
-### DevOps & Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,jenkins,git,grafana" />
-</p>
+- Spring Boot microservices
+- Go for backend development
+- Distributed systems
+- Containerized deployments
+- Observability and monitoring
 
-### Web & App Development
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,androidstudio" />
-</p>
+## Connect
 
-### AI / Data Science
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48"/>
-</p>
+- [LinkedIn](https://linkedin.com/in/akshat-agarwal)
+- [LeetCode](https://leetcode.com/akshat_281204)
+- [GitHub](https://github.com/akshat281204)
 
----
+## Contact
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akshat281204&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshat281204&theme=github_dark" />
-</p>
-
-
----
-
-## 🏆 Currently Exploring
-
-- ⚙️ Spring Boot Microservices
-- 🚀 Golang for backend systems
-- 🐳 Containerized deployments
-- 📡 Distributed systems concepts
-- 🔍 Observability & monitoring
-
----
-
-<p align="center">
-  <i>"Building things that are fast, scalable, and actually useful."</i>
-</p>
+[akshat28122004@gmail.com](mailto:akshat28122004@gmail.com)
